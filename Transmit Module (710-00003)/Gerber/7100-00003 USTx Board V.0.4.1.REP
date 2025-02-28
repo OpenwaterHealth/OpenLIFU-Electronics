@@ -1,0 +1,802 @@
+*************************************************************
+FileName = 7100-00003 USTx Board V.0.4.1.GBR
+AutoAperture = True
+*************************************************************
+Generating : GND/PWR1
+      File : 7100-00003 USTx Board V.0.4.1.G3
+
+    Adding Layer      : GND/PWR1
+
+    Adding Layer      : M11 Gerber Information
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D20
+    D98
+    D99
+    D100
+*************************************************************
+
+*************************************************************
+Generating : GND/PWR2
+      File : 7100-00003 USTx Board V.0.4.1.G4
+
+    Adding Layer      : GND/PWR2
+
+    Adding Layer      : M11 Gerber Information
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D13
+    D20
+    D98
+    D100
+*************************************************************
+
+*************************************************************
+Generating : Signal Layer 2
+      File : 7100-00003 USTx Board V.0.4.1.G5
+
+    Adding Layer      : Signal Layer 2
+
+    Adding Layer      : M11 Gerber Information
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D18
+    D20
+    D97
+    D98
+    D99
+    D100
+*************************************************************
+
+*************************************************************
+Generating : GND4
+      File : 7100-00003 USTx Board V.0.4.1.G6
+
+    Adding Layer      : GND4
+
+    Adding Layer      : M11 Gerber Information
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D13
+    D20
+    D96
+    D98
+    D99
+    D100
+    D101
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : 7100-00003 USTx Board V.0.4.1.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : M11 Gerber Information
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D14
+    D17
+    D18
+    D20
+    D32
+    D40
+    D43
+    D46
+    D49
+    D50
+    D51
+    D53
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : 7100-00003 USTx Board V.0.4.1.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : M11 Gerber Information
+
+
+Used DCodes :
+    D11
+    D20
+    D32
+    D40
+    D43
+    D46
+    D49
+    D50
+    D51
+    D53
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D93
+    D94
+    D95
+    D96
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : 7100-00003 USTx Board V.0.4.1.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : M11 Gerber Information
+
+
+Used DCodes :
+    D11
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D87
+    D88
+    D89
+    D93
+    D94
+    D95
+    D96
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : 7100-00003 USTx Board V.0.4.1.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : M11 Gerber Information
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : 7100-00003 USTx Board V.0.4.1.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : M11 Gerber Information
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D20
+*************************************************************
+
+*************************************************************
+Generating : M2 Board Dimensions
+      File : 7100-00003 USTx Board V.0.4.1.GM2
+
+    Adding Layer      : M2 Board Dimensions
+
+    Adding Layer      : M11 Gerber Information
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D20
+    D120
+    D121
+*************************************************************
+
+*************************************************************
+Generating : M9 Title Sheet
+      File : 7100-00003 USTx Board V.0.4.1.GM9
+
+    Adding Layer      : M9 Title Sheet
+
+    Adding Layer      : M11 Gerber Information
+
+
+Used DCodes :
+    D11
+    D13
+    D16
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : 7100-00003 USTx Board V.0.4.1.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : M11 Gerber Information
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Signal Layer 1
+      File : 7100-00003 USTx Board V.0.4.1.G2
+
+    Adding Layer      : Signal Layer 1
+
+    Adding Layer      : M11 Gerber Information
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D18
+    D20
+    D97
+    D98
+    D99
+    D100
+*************************************************************
+
+*************************************************************
+Generating : Bottom Coverlay 2
+      File : 7100-00003 USTx Board V.0.4.1.GCB2
+
+    Adding Layer      : Bottom Coverlay 2
+
+    Adding Layer      : M11 Gerber Information
+
+
+Used DCodes :
+    D11
+    D20
+    D122
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : 7100-00003 USTx Board V.0.4.1.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : M11 Gerber Information
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D20
+    D21
+    D26
+    D27
+    D28
+    D32
+    D33
+    D36
+    D37
+    D38
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D56
+    D57
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : 7100-00003 USTx Board V.0.4.1.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : M11 Gerber Information
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D20
+    D32
+    D40
+    D43
+    D46
+    D49
+    D50
+    D51
+    D53
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+*************************************************************
+
+*************************************************************
+Generating : M10 Fab Notes
+      File : 7100-00003 USTx Board V.0.4.1.GM10
+
+    Adding Layer      : M10 Fab Notes
+
+    Adding Layer      : M11 Gerber Information
+
+
+Used DCodes :
+    D11
+    D13
+    D17
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : 7100-00003 USTx Board V.0.4.1.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : M11 Gerber Information
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D20
+    D32
+    D40
+    D43
+    D46
+    D49
+    D50
+    D51
+    D53
+    D56
+    D57
+    D60
+    D61
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D104
+    D105
+    D109
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+*************************************************************
+
+*************************************************************
+Generating : M12 Stackup
+      File : 7100-00003 USTx Board V.0.4.1.GM12
+
+    Adding Layer      : M12 Stackup
+
+    Adding Layer      : M11 Gerber Information
+
+
+Used DCodes :
+    D11
+    D19
+    D20
+    D90
+*************************************************************
+
+*************************************************************
+Generating : Top Coverlay 2
+      File : 7100-00003 USTx Board V.0.4.1.GCT2
+
+    Adding Layer      : Top Coverlay 2
+
+    Adding Layer      : M11 Gerber Information
+
+
+Used DCodes :
+    D11
+    D20
+*************************************************************
+
+*************************************************************
+Generating : M1 Board Outline
+      File : 7100-00003 USTx Board V.0.4.1.GM1
+
+    Adding Layer      : M1 Board Outline
+
+    Adding Layer      : M11 Gerber Information
+
+
+Used DCodes :
+    D11
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : 7100-00003 USTx Board V.0.4.1.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+    Adding Layer      : M11 Gerber Information
+
+
+Used DCodes :
+    D11
+    D20
+*************************************************************
+
+*************************************************************
+Generating : GND1
+      File : 7100-00003 USTx Board V.0.4.1.G1
+
+    Adding Layer      : GND1
+
+    Adding Layer      : M11 Gerber Information
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D13
+    D20
+    D96
+    D98
+    D99
+    D100
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : 7100-00003 USTx Board V.0.4.1.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : M11 Gerber Information
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D14
+    D17
+    D18
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : 7100-00003 USTx Board V.0.4.1.GD1
+
+    Adding Layer      : M11 Gerber Information
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D11
+    D16
+    D20
+    D92
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : 7100-00003 USTx Board V.0.4.1.GG1
+
+    Adding Layer      : M11 Gerber Information
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D11
+    D16
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : 7100-00003 USTx Board V.0.4.1.GM
+
+
+Used DCodes :
+    D122
+*************************************************************
+
