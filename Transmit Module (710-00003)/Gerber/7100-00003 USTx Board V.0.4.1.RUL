@@ -1,0 +1,15 @@
+DRC Rules Export File for PCB: C:\Project\Released\7100-00003 USTx Board\7100-00003 USTx Board V.0.4.1\7100-00003 V.0.4.1.PcbDoc
+RuleKind=Width|RuleName=Width_1|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=room clearance_HV|Scope=Board|Minimum=7.00
+RuleKind=Clearance|RuleName=HV_in|Scope=Board|Minimum=8.00
+RuleKind=Clearance|RuleName=room clearance|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=HV|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_Keepouts|Scope=Board|Minimum=0.00
+RuleKind=Clearance|RuleName=Clearance_Poly|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Clearance_FiducialMark|Scope=Board|Minimum=0.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=4.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing_ThermalPadVias|Scope=Board|Minimum=5.91
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=3.00
